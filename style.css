@@ -13,7 +13,14 @@ header {
   width: 90%;
   padding: 15px 0;
   margin: 0 auto;
-  text-align: center;}
+  text-align: center;
+  position: relative;
+}
+
+.social{
+  display: inline-block;
+  margin-left: 20px;
+}
 
 header .heading {
   font-size: 32px;
